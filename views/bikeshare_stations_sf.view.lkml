@@ -12,6 +12,7 @@ view: bikeshare_stations_sf {
     timeframes: [
       raw,
       date,
+      time,
       week,
       month,
       quarter,
