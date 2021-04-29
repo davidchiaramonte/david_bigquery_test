@@ -24,6 +24,7 @@ view: bikeshare_trips_sf {
       year
     ]
     sql: ${TABLE}.end_date ;;
+    datatype: datetime
   }
 
   dimension: end_station_id {
