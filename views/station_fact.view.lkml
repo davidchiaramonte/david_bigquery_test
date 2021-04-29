@@ -1,5 +1,5 @@
 view: station_fact {
-  sql_table_name: `San_Francisco.station_fact`
+  sql_table_name: `San_Francisco.@{station_fact}`
     ;;
 
   dimension: dockcount {
